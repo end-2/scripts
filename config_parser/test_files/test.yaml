@@ -1,0 +1,15 @@
+configuration:
+  settings:
+    language: English
+    theme: Light
+  users:
+    - name: John Doe
+      age: 30
+      email: john.doe@example.com
+    - name: Jane Doe
+      age: 28
+      email: jane.doe@example.com
+  colors:
+    - Red
+    - Blue
+    - Green

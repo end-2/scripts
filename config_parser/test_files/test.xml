@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <settings>
+        <setting name="language">English</setting>
+        <setting name="theme">Light</setting>
+    </settings>
+    <users>
+        <user>
+            <name>John Doe</name>
+            <age>30</age>
+            <email>john.doe@example.com</email>
+        </user>
+        <user>
+            <name>Jane Doe</name>
+            <age>28</age>
+            <email>jane.doe@example.com</email>
+        </user>
+    </users>
+    <colors>
+        <color>Red</color>
+        <color>Blue</color>
+        <color>Green</color>
+    </colors>
+</configuration>
