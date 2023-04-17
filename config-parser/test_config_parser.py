@@ -2,7 +2,7 @@ import unittest
 from config_parser import parse_file
 
 class TestParsing(unittest.TestCase):
-    test_file_path = "test_files/test"
+    test_file_path = "test-files/test"
 
     def test_parse_yaml(self):
         expected = {
